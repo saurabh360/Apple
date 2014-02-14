@@ -15,6 +15,7 @@ namespace IOSappl
 			// you can specify it here.
 			UIApplication.Main (args, null, "AppDelegate");
 			Console.WriteLine("Test of Apple ");
+			Console.WriteLine("Test of Apple test ");
 		}
 	}
 }
