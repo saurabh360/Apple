@@ -27,6 +27,7 @@ namespace IOSappl
 		// when the user quits.
 		public override void DidEnterBackground (UIApplication application)
 		{
+			Console.WriteLine("Test of Apple test123 ");
 		}
 		// This method is called as part of the transiton from background to active state.
 		public override void WillEnterForeground (UIApplication application)
