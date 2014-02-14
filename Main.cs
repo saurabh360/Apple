@@ -16,6 +16,7 @@ namespace IOSappl
 			UIApplication.Main (args, null, "AppDelegate");
 			Console.WriteLine("Test of Apple ");
 			Console.WriteLine("Test of Apple test ");
+			Console.WriteLine("Test of Apple test123 ");
 		}
 	}
 }
