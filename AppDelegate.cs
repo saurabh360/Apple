@@ -28,6 +28,7 @@ namespace IOSappl
 		public override void DidEnterBackground (UIApplication application)
 		{
 			Console.WriteLine("Test of Apple test123 ");
+			Console.WriteLine("Test of Apple test12345");
 		}
 		// This method is called as part of the transiton from background to active state.
 		public override void WillEnterForeground (UIApplication application)
